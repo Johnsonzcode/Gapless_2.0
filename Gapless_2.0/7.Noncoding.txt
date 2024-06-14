@@ -1,0 +1,1 @@
+https://github.com/Johnsonzcode/CAU_Silkie_code/blob/master/non-coding_RNA_annotation/annotate.sh
